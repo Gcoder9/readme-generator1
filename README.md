@@ -3,20 +3,31 @@
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [Desription](#description)
+- [Description](#description)
 - [Visuals](#visuals)
 - [Resources](#resources)
 
 ## Description
-All links were made functional. Consolidated and organized the properties and css selectors.
-The css files were commented as well as the html files.
+This is a professional readme generator created as part of a coding bootcamp. It takes in user input in a node terminal to generate a readme and optional License file using the Github octokit.
+It has been developed to the following user story and acceptance criteria.
+
+## Usage
+A prerequisite to using this code is having Node.js.
+
+1. Clone The repository or download a local copy
+2. Open a Terminal in the folder index.js is located
+3. Type in  `npm install`. This will set up all the packages you need.
+4. Type in `node index.js`
+5. Follow the prompts in the command line
+
 
 
 
 ## Visuals
-![Horiseon](./assets/images/Horiseon-SEO.png)
+### **Example Video**
+<br/>
+https://drive.google.com/file/d/1UMrcxevchQVjAmthBFF2FyWy25q_xI3M/view?usp=sharing
 
 ## Resources
-- [Live Site](https://gcoder9.github.io/seo-refactor/)
-- [Repository](https://github.com/Gcoder9/seo-refactor)
+- 
+- [Repository](https://github.com/Gcoder9/readme-generator1)
