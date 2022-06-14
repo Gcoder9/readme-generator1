@@ -26,8 +26,10 @@ A prerequisite to using this code is having Node.js.
 ## Visuals
 ### **Example Video**
 <br/>
-https://drive.google.com/file/d/1UMrcxevchQVjAmthBFF2FyWy25q_xI3M/view?usp=sharing
+<a href ="https://drive.google.com/file/d/1UMrcxevchQVjAmthBFF2FyWy25q_xI3M/view?usp=sharing"><img src="readme generator.png"></a>
+<br>
 
 ## Resources
-- 
+- [GoogleDrive](https://drive.google.com/file/d/1UMrcxevchQVjAmthBFF2FyWy25q_xI3M/view?usp=sharing)
+
 - [Repository](https://github.com/Gcoder9/readme-generator1)
