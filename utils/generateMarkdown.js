@@ -1,7 +1,6 @@
 const generateMarkdown=(data)=> {
-    
 
-` # ${data.Title}
+return ` # ${data.Title}
  https://github.com/${data.Username}/${data.Title}
  # Desrciption
  ${data.Description}
